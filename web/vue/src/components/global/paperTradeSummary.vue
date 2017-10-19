@@ -54,7 +54,7 @@ export default {
 }
 
 .price.profit {
-  color: #7FFF00;
+  color: #2ecc71;
 }
 
 .price.loss {
