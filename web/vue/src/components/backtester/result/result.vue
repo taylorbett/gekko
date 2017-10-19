@@ -7,7 +7,7 @@
     .hr.contain
     chart(:data='result', height='500')
     .hr.contain
-    roundtripTable(:roundtrips='result.roundtrips')
+    roundtripTable(:roundtrips='result.roundtrips', :report='result.report')
 </template>
 
 <script>
